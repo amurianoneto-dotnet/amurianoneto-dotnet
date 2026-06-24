@@ -1,16 +1,25 @@
-## Hi there 👋
+# Olá, eu sou Antonio Muriano 👋
 
-<!--
-**amurianoneto-dotnet/amurianoneto-dotnet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedor Full Stack
 
-Here are some ideas to get you started:
+## 🚀 Tecnologias
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- HTML5
+- CSS3
+- JavaScript
+- PHP
+- MySQL
+- Bootstrap
+
+## 📂 Projetos em destaque
+
+- Sistemas 
+- Dashboard Administrativo
+- Websites
+- APIs
+
+## 📫 Contato
+
+📧 amuriano.designeredev@gmail.com
+
+🌎 Barra Bonita - SP
