@@ -2,6 +2,10 @@
 
 Desenvolvedor Full Stack
 
+Desenvolvimento de sistemas web, APIs, dashboards administrativos e websites profissionais.
+
+---
+
 ## Tecnologias
 
 - HTML5
@@ -10,16 +14,26 @@ Desenvolvedor Full Stack
 - PHP
 - MySQL
 - Bootstrap
+- Git
 
-## Projetos em destaque
+---
 
-- Sistemas 
-- Dashboard Administrativo
-- Websites
-- APIs
+## Projetos
+
+🔹 Sistemas Web
+
+🔹 Dashboard Administrativo
+
+🔹 APIs em PHP
+
+🔹 Landing Pages
+
+🔹 Websites Institucionais
+
+---
 
 ## Contato
 
-amuriano.designeredev@gmail.com
+📧 amuriano.designeredev@gmail.com
 
-Barra Bonita - SP
+🌎 Barra Bonita - SP
