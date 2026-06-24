@@ -1,8 +1,8 @@
-# Olá, eu sou Antonio Muriano 👋
+# Olá, eu sou Antonio Muriano
 
-💻 Desenvolvedor Full Stack
+Desenvolvedor Full Stack
 
-## 🚀 Tecnologias
+## Tecnologias
 
 - HTML5
 - CSS3
@@ -11,15 +11,15 @@
 - MySQL
 - Bootstrap
 
-## 📂 Projetos em destaque
+## Projetos em destaque
 
 - Sistemas 
 - Dashboard Administrativo
 - Websites
 - APIs
 
-## 📫 Contato
+## Contato
 
-📧 amuriano.designeredev@gmail.com
+amuriano.designeredev@gmail.com
 
-🌎 Barra Bonita - SP
+Barra Bonita - SP
