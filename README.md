@@ -13,7 +13,7 @@ Desenvolvimento de sistemas web, dashboards administrativos, APIs e websites pro
 ## 🚀 Tecnologias
 
 <div>
-<img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,bootstrap,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,bootstrap,git,github,vscode,visualstudio" />
 </div>
 
 ---
