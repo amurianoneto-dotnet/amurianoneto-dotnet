@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou Antonio Muriano 👋</h1>
+<h1 align="center">Olá, eu sou Antonio Muriano </h1>
 
 <h3 align="center">
 Desenvolvedor Full Stack | PHP | JavaScript | MySQL
@@ -67,6 +67,6 @@ Integrações e automações.
 
 <div align="center">
 
-### 🚀 Sempre em busca de criar soluções modernas e eficientes.
+### Sempre em busca de criar soluções modernas e eficientes.
 
 </div>
